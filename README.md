@@ -7,3 +7,5 @@ Monday class
 completed Monday class
 ## List Tasks
 Afternoon class
+## Remove Task
+## Quit
