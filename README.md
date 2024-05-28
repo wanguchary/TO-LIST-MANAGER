@@ -1,4 +1,6 @@
 # TO-LIST-MANAGER
+## Name of the contributor
+Charity Machira
 ##  Application name
 To do list
 ## Add Task
@@ -8,4 +10,4 @@ completed Monday class
 ## List Tasks
 Afternoon class
 ## Remove Task
-## Quit
+
